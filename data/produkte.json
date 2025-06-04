@@ -1,0 +1,9 @@
+[
+  {
+    "id": "beispiel1",
+    "name": "Testprodukt",
+    "preis": 4.99,
+    "bestand": 100,
+    "bild": "https://via.placeholder.com/300x200"
+  }
+]
