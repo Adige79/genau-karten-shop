@@ -1,0 +1,128 @@
+[
+  {
+    "id": "produkt1",
+    "name": "Produkt 1",
+    "preis": 2.5,
+    "bestand": 100,
+    "bild": "https://via.placeholder.com/300x200?text=Produkt+1"
+  },
+  {
+    "id": "produkt2",
+    "name": "Produkt 2",
+    "preis": 3.0,
+    "bestand": 95,
+    "bild": "https://via.placeholder.com/300x200?text=Produkt+2"
+  },
+  {
+    "id": "produkt3",
+    "name": "Produkt 3",
+    "preis": 3.5,
+    "bestand": 90,
+    "bild": "https://via.placeholder.com/300x200?text=Produkt+3"
+  },
+  {
+    "id": "produkt4",
+    "name": "Produkt 4",
+    "preis": 4.0,
+    "bestand": 85,
+    "bild": "https://via.placeholder.com/300x200?text=Produkt+4"
+  },
+  {
+    "id": "produkt5",
+    "name": "Produkt 5",
+    "preis": 4.5,
+    "bestand": 80,
+    "bild": "https://via.placeholder.com/300x200?text=Produkt+5"
+  },
+  {
+    "id": "produkt6",
+    "name": "Produkt 6",
+    "preis": 5.0,
+    "bestand": 75,
+    "bild": "https://via.placeholder.com/300x200?text=Produkt+6"
+  },
+  {
+    "id": "produkt7",
+    "name": "Produkt 7",
+    "preis": 5.5,
+    "bestand": 70,
+    "bild": "https://via.placeholder.com/300x200?text=Produkt+7"
+  },
+  {
+    "id": "produkt8",
+    "name": "Produkt 8",
+    "preis": 6.0,
+    "bestand": 65,
+    "bild": "https://via.placeholder.com/300x200?text=Produkt+8"
+  },
+  {
+    "id": "produkt9",
+    "name": "Produkt 9",
+    "preis": 6.5,
+    "bestand": 60,
+    "bild": "https://via.placeholder.com/300x200?text=Produkt+9"
+  },
+  {
+    "id": "produkt10",
+    "name": "Produkt 10",
+    "preis": 7.0,
+    "bestand": 55,
+    "bild": "https://via.placeholder.com/300x200?text=Produkt+10"
+  },
+  {
+    "id": "produkt11",
+    "name": "Produkt 11",
+    "preis": 7.5,
+    "bestand": 50,
+    "bild": "https://via.placeholder.com/300x200?text=Produkt+11"
+  },
+  {
+    "id": "produkt12",
+    "name": "Produkt 12",
+    "preis": 8.0,
+    "bestand": 45,
+    "bild": "https://via.placeholder.com/300x200?text=Produkt+12"
+  },
+  {
+    "id": "produkt13",
+    "name": "Produkt 13",
+    "preis": 8.5,
+    "bestand": 40,
+    "bild": "https://via.placeholder.com/300x200?text=Produkt+13"
+  },
+  {
+    "id": "produkt14",
+    "name": "Produkt 14",
+    "preis": 9.0,
+    "bestand": 35,
+    "bild": "https://via.placeholder.com/300x200?text=Produkt+14"
+  },
+  {
+    "id": "produkt15",
+    "name": "Produkt 15",
+    "preis": 9.5,
+    "bestand": 30,
+    "bild": "https://via.placeholder.com/300x200?text=Produkt+15"
+  },
+  {
+    "id": "produkt16",
+    "name": "Produkt 16",
+    "preis": 10.0,
+    "bestand": 25,
+    "bild": "https://via.placeholder.com/300x200?text=Produkt+16"
+  },
+  {
+    "id": "produkt17",
+    "name": "Produkt 17",
+    "preis": 10.5,
+    "bestand": 20,
+    "bild": "https://via.placeholder.com/300x200?text=Produkt+17"
+  },
+  {
+    "id": "produkt18",
+    "name": "Produkt 18",
+    "preis": 11.0,
+    "bestand": 15,
+    "bild": "https://via.placeholder.com/300x200?text=Produkt+18"
+  }
+]
